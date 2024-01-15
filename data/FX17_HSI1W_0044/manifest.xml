@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+ <file extension="raw" type="darkref">capture/DARKREF_FX17_HSI1W_0044.raw</file>
+ <file extension="hdr" type="darkref">capture/DARKREF_FX17_HSI1W_0044.hdr</file>
+ <file extension="raw" type="whiteref">capture/WHITEREF_FX17_HSI1W_0044.raw</file>
+ <file extension="hdr" type="whiteref">capture/WHITEREF_FX17_HSI1W_0044.hdr</file>
+ <file extension="raw" type="capture">capture/FX17_HSI1W_0044.raw</file>
+ <file extension="hdr" type="capture">capture/FX17_HSI1W_0044.hdr</file>
+ <file extension="xml" type="properties">metadata/FX17_HSI1W_0044.xml</file>
+ <file extension="xsl" type="properties">metadata/FX17_HSI1W_0044.xsl</file>
+ <file extension="png" type="preview">FX17_HSI1W_0044.png</file>
+</manifest>

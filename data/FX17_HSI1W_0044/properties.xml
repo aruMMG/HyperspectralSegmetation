@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+ <property name="countervalue">0044</property>
+ <property name="timestamp">2023-11-16_16-36-18</property>
+ <property name="name">FX17_HSI1W</property>
+ <property name="prefix">MMPSD</property>
+ <property name="timestampformat">!%Y-%m-%d_%H-%M-%S</property>
+ <property name="namingformat">name_counter</property>
+</properties>

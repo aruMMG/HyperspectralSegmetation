@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="FX17_HSI1W_0044.xsl"?>
+<properties><header><key field="sensor type">FX17e</key>
+        <key field="sensor id">4210313</key>
+        <key field="frame rate">41.210018157959</key>
+        <key field="integration time">2.5</key>
+        <key field="samples">640</key>
+        <key field="active bands">112</key>
+        <key field="spatial binning">1</key>
+        <key field="spectral binning">2</key>
+        <key field="frames recorded">642</key>
+        <key field="frames dropped">0</key>
+        <key field="data format">BIL</key>
+        <key field="date">2023-11-16</key>
+        <key field="date text">Thursday, November 16, 2023</key>
+        <key field="time">16:36:18</key>
+        <key field="calibration pack">C:/Users/Specim Demo PC/Desktop/FX Folder/Calibrations/FX17/4210313_20211116_FX_calpack.scp</key>
+    </header>
+    <userdefined><key field="sample name">FX17_HSI1W</key>
+        <key field="operator">EN</key>
+        <key field="description"></key>
+        <key field="sensor temperature">49.864227294922</key>
+        <key field="sensor prefix">MMPSD</key>
+    </userdefined>
+</properties>
